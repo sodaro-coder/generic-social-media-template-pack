@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sodaro-coder.github.io/generic-social-media-template-pack/sitemap.xml
